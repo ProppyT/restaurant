@@ -1,0 +1,242 @@
+a  {
+   text-decoration: none;
+   color: #000000;
+}
+
+a ins  {
+   text-decoration: none;
+}
+
+img { border: 0; }
+
+#bcklayer {
+	visibility: visible;
+	position: absolute;
+	left: 379px;
+	top: 0px;
+	z-index: 4;
+	width: 645px;
+	height: 220px;
+	background-color: #F7F7E8;
+}
+
+#flash {
+	visibility: visible;
+	position: absolute;
+	left: 438px;
+	top: 25px;
+	z-index: 4;
+	width: 523px;
+	height: 179px;
+}
+
+#otrosbutton a,
+#restaurantebutton a,
+#cateringbutton a,
+#homebutton a,
+#salonesbutton a,
+#contactobutton a,
+#ubicacionbutton a,
+#bodasbutton a  {
+   background-repeat: no-repeat;
+   display: block;
+   height: 44px;
+   background-position: 0% 0px;
+   font-size: 44px;
+   line-height: 44px;
+}
+
+#restaurantebutton a:hover  {
+   background-position: -129px 0%;
+}
+
+#ubicacionbutton a:hover  {
+   background-position: -116px 0%;
+}
+
+#cateringbutton a:hover  {
+   background-position: -118px 0%;
+}
+
+#contactobutton a:hover  {
+   background-position: -108px 0%;
+}
+
+#salonesbutton a:hover  {
+   background-position: -110px 0%;
+}
+
+#otrosbutton a:hover  {
+   background-position: -146px 0%;
+}
+
+#restaurantebutton a  {
+   width: 129px;
+   background-image: url(p1media/restaurantebutton.gif);
+}
+
+#bodasbutton a:hover  {
+   background-position: -166px 0%;
+}
+
+#homebutton a:hover  {
+   background-position: -91px 0%;
+}
+
+#restaurantebutton  {
+   visibility: visible;
+   position: absolute;
+   left: 388px;
+   top: 221px;
+   z-index: 7;
+   width: 129px;
+   height: 44px;
+}
+
+#ubicacionbutton a  {
+   width: 116px;
+   background-image: url(p1media/ubicacionbutton.gif);
+}
+
+#cateringbutton a  {
+   width: 118px;
+   background-image: url(p1media/cateringbutton.gif);
+}
+
+#contactobutton a  {
+   width: 108px;
+   background-image: url(p1media/contactobutton.gif);
+}
+
+#salonesbutton a  {
+   width: 110px;
+   background-image: url(p1media/salonesbutton.gif);
+}
+
+#ubicacionbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 779px;
+   top: 221px;
+   z-index: 10;
+   width: 116px;
+   height: 44px;
+}
+
+#cateringbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 516px;
+   top: 221px;
+   z-index: 8;
+   width: 118px;
+   height: 44px;
+}
+
+#contactobutton  {
+   visibility: visible;
+   position: absolute;
+   left: 894px;
+   top: 221px;
+   z-index: 4;
+   width: 108px;
+   height: 44px;
+}
+
+#otrosbutton a  {
+   width: 146px;
+   background-image: url(p1media/otrosbutton.gif);
+}
+
+#salonesbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 278px;
+   top: 221px;
+   z-index: 6;
+   width: 110px;
+   height: 44px;
+}
+
+#bodasbutton a  {
+   width: 166px;
+   background-image: url(p1media/bodasbutton.gif);
+}
+
+#homebutton a  {
+   width: 91px;
+   background-image: url(p1media/homebutton.gif);
+}
+
+#bodasbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 112px;
+   top: 221px;
+   z-index: 5;
+   width: 166px;
+   height: 44px;
+}
+
+#otrosbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 634px;
+   top: 221px;
+   z-index: 9;
+   width: 146px;
+   height: 44px;
+}
+
+#homebutton  {
+   visibility: visible;
+   position: absolute;
+   left: 22px;
+   top: 221px;
+   z-index: 4;
+   width: 91px;
+   height: 44px;
+}
+
+#layer2  {
+   background: url(p1media/layer2.gif) no-repeat;
+   position: absolute;
+   left: 0px;
+   top: 0px;
+   z-index: 3;
+   width: 1024px;
+   height: 233px;
+}
+
+#layer1  {
+   background: url(p1media/layer1.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 0px;
+   top: 0px;
+   z-index: 1;
+   width: 1024px;
+   height: 955px;
+}
+
+#layer3  {
+   background: url(p1media/layer3.gif) no-repeat;
+   position: absolute;
+   left: 0px;
+   top: 183px;
+   z-index: 2;
+   width: 1024px;
+   height: 772px;
+}
+
+#p1  {
+   margin: 0px auto 0px auto;
+   width: 1024px;
+   position: relative;
+}
+
+html, body  {
+   padding: 0px;
+   margin: 0px;
+   background-color: #E8D8B8;
+}
